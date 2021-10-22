@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
-<h3 align="center">A passionate Engineer from Ireland interested in Machine Learning</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravindurairaj&style=plastic" alt="pravindurairaj" /> </p>
 
