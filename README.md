@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pravin</h1>
-<h3 align="center">Analyst</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravindurairaj&style=plastic" alt="pravindurairaj" /> </p>
+<h1 align="center">Hi 👋, This is Pravin</h1>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pravindurairaj.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
