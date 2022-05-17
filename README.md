@@ -28,3 +28,5 @@
 <a href="https://app.daily.dev/pravindurairaj"><img src="https://api.daily.dev/devcards/b9bf1cae1219465ea345dcfdf4470827.png?r=1pn" width="400" alt="Pravin Kumar Durairaj's Dev Card"/></a>
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+  
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
