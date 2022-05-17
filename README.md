@@ -16,4 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravindurairaj&show_icons=true&locale=en&layout=compact" alt="pravindurairaj" /></p>
 
 <a href="https://app.daily.dev/pravindurairaj"><img src="https://api.daily.dev/devcards/b9bf1cae1219465ea345dcfdf4470827.png?r=1pn" width="400" alt="Pravin Kumar Durairaj's Dev Card"/></a>
-![Dev.to blog](https://app.daily.dev/pravindurairaj)
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
