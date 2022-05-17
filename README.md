@@ -42,5 +42,3 @@
 ### Others
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
-
-<a href="https://app.daily.dev/pravindurairaj"><img src="https://api.daily.dev/devcards/b9bf1cae1219465ea345dcfdf4470827.png?r=1pn" width="400" alt="Pravin Kumar Durairaj's Dev Card"/></a>
