@@ -10,7 +10,8 @@
 <a href="https://instagram.com/pravin_durairaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pravin_durairaj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Databases</h3>
+### Databases
+
 ![MySQL]({https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white})
 ![Postgres]({https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white})
 ![SQLite]({https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white})
