@@ -30,3 +30,6 @@
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
   
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+  
+<h3>Analytics</h3>
+https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white
